@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caiofers" alt="caiofers" /></a> </p>
 
-- 🟢 I’m currently working on [PetPals Project](https://github.com/caiofers/pet_pals) and on **Translator-IA**
+- 🟢 I’m currently working on **[PetPals Project](https://github.com/caiofers/pet_pals)** and on **Translator-IA**.
 
-- 🟡 I’m currently learning **Flutter and specializing in Mobile Development at PUC Minas**
+- 🟡 I’m currently learning **Flutter and specializing in Mobile Development at PUC Minas.**
 
 - 🔴 Ask me about **iOS Development, Flutter or anything else (I promise that I will do my best).**
 
