@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🫣, I'm Caio Fernandes</h1>
 <h3 align="center">A developer that like to learn a lot of things constantly 🧠</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiofers&label=Profile%20views&color=0e75b6&style=flat" alt="caiofers" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=caiofers&label=Profile%20views&color=0e75b6&style=flat" alt="caiofers" /> </p>
 
 🟢 I’m currently working on **[PetPals Project](https://github.com/caiofers/pet_pals)** and on **Translator-IA**.
 
