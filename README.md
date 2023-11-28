@@ -5,6 +5,8 @@
 
 🟢 I’m currently working on **[PetPals Project](https://github.com/caiofers/pet_pals)** and on **Translator-IA**.
 
+⚪️ I worked for 2 years and 3 months at @Letras as **iOS Developer.**
+
 🟡 I’m currently learning **Flutter and specializing in Mobile Development at PUC Minas.**
 
 🔴 Ask me about **iOS Development, Flutter or anything else (I promise that I will do my best).**
